@@ -36,9 +36,8 @@ export default () => {
           flex-wrap: wrap;
         `}
       >
-        {arr.map((t) => (
+        {arr.map((t, index) => (
           <motion.div
-            positionTransition
             key={t}
             css={css`
               height: 48px;

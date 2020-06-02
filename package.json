@@ -10,7 +10,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "babel-plugin-emotion": "^10.0.33",
-    "framer-motion": "^1.11.0",
+    "framer-motion": "^2.0.0-beta.72",
     "next": "9.4.4",
     "react": "16.13.1",
     "react-dom": "16.13.1"
