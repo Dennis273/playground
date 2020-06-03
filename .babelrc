@@ -1,4 +1,4 @@
 {
-  "presets": ["next/babel"],
-  "plugins": ["emotion"]
+  "presets": ["next/babel", "@emotion/babel-preset-css-prop"],
+  "plugins": ["emotion", "babel-plugin-macros"]
 }
