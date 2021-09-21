@@ -13,7 +13,7 @@
     "babel-plugin-emotion": "^10.0.33",
     "babel-plugin-macros": "^2.8.0",
     "framer-motion": "^2.0.0-beta.72",
-    "next": "11.1.0",
+    "next": "11.1.1",
     "postcss-preset-env": "^6.7.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
