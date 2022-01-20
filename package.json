@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@babel/core: "^7.16.10",
+    "@babel/core": "^7.16.10",
     "@emotion/babel-preset-css-prop": "^10.0.27",
     "@emotion/core": "^10.0.28",
     "babel-plugin-emotion": "^10.0.33",
